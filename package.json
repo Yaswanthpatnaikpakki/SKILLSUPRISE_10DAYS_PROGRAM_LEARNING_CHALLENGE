@@ -1,0 +1,16 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "firebase": "^12.3.0",
+    "firebase-admin": "^13.5.0"
+  },
+  "devDependencies": {
+    "electron": "^38.1.2"
+  }
+}
